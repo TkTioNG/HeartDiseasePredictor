@@ -3,7 +3,7 @@ Data Science Subject
 
 ## Project Details and Personnel
 Project Topic:
-Heart Disease Predition Assistant
+Heart Disease Prediction Assistant
 
 Group Member:
 1. Tan Kuan Tiong (18WMR07386)
